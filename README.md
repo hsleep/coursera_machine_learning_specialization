@@ -1,1 +1,1 @@
-# ml_study
+# Coursera machine learning specialization
